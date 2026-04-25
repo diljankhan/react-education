@@ -1,2 +1,3 @@
-# react-education
-React Education
+
+
+#### *A list of helpful material to develop using React*
